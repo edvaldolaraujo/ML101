@@ -1,2 +1,5 @@
 # ml101
-Basic Material to start ML tasks
+Basic material to start ML tasks
+
+## objective
+Provide a basic content to inderstand and execute ML tasks
